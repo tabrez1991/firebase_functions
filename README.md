@@ -112,3 +112,8 @@ exports.deleteItem = functions.https.onRequest((req, res) => {
   });
 });
 ```
+17. Run the following command on your terminal.<br/>
+``` firebase deploy```
+
+# Now your Firebase Function successfully implemented
+ If you want to show where it is. Goto the firebase console. Click on functions. This will show you the list of fuctions that you create. 
